@@ -1,4 +1,9 @@
 # My Book Reading Memos
 
-## Book Lists
-- [つくって学ぶプログラミング言語](http://tatsu-zine.com/books/scheme-in-ruby)
+## C
+
+- [Linuxカーネルで学ぶC言語マクロテクニック](./c_language/c_language_macro_technique.md)
+
+## Ruby
+
+- [つくって学ぶプログラミング言語](./ruby/ruby-uscheme/README.md)
